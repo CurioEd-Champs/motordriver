@@ -22,7 +22,7 @@ let BIN2 = DigitalPin.P16;
 //% weight=20 color=#3333FF icon="\uf1b9"
 namespace MotorDriver {
     /**
-     * Motor Run
+     * Motor Fun
      * @param speed [0-16] speed of Motor; eg: 10, 0, 16
     */
     //% blockId=MotorDriver_MotorRun block="Motor %m|index %index|speed %speed"
